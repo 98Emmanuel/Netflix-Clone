@@ -1,0 +1,319 @@
+.signIn{
+    width: 80px; 
+    margin-left: 0px;
+}
+
+.row2{
+    height: 50px; 
+    margin-top: 200px;}
+
+.unlimov{
+    height: 50px;
+    margin-top: 200px; 
+    font-size: 3rem; 
+    font-weight: 800;}
+
+.row2i{
+    height: 50px; 
+    margin-top: 200px;}
+
+.anywhere{
+    height: 50px; 
+    margin-top: 10px;}
+
+
+.ready{
+    height: 50px; 
+    margin-top: 10px; 
+    font-size: 1.125rem;
+}    
+
+.email{
+    height: 60px;
+     width: 300px; 
+     --bs-bg-opacity: .5; 
+     border-radius: 7px;
+}
+
+.gtstarted{
+    height: 60px;
+     width: 200px;
+}
+
+.gtstartedi {
+    height: 80px; 
+    line-height: 80px;}
+
+.emaili{
+    height: 60px; 
+    width: 350px; --bs-bg-opacity: .5; 
+    border-radius: 7px; 
+    margin-left: 50px;}
+
+.row3{
+    height: 80px;
+    line-height: 80px;
+
+}
+
+.freq{
+    height: 50px;
+     line-height: 50px;
+}
+
+.create{
+    font-size: 3rem;
+     font-weight: 700;
+}
+
+.stranger{
+    margin: auto; 
+    border-top-left-radius: 16px; 
+    border-bottom-left-radius: 18px;
+}
+
+#div1{
+    width: 100%;
+    height: 700px;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%), url(../../public/images/Netflix\ background\ image.jpg);
+    margin-bottom: 10px;
+    background-size: cover;
+    background-position: center;
+}
+
+#div1i{
+    margin-top: 40px !important;
+    
+}
+
+#div2{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+#div2i{
+    width: 50%;
+    height: 400px;
+    background-color: black;
+}
+
+#div2ia{
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    margin: auto;
+    margin-left: 200px;
+
+    /*width: 450px;
+    height: 300px;
+    background-color: black;
+    margin-top: 20px;*/
+
+}
+
+#div2ii{
+    width: 50%;
+    height: 400px;
+    background-color: black;
+}
+
+#div3{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+#div3i{
+    width: 50%;
+    height: 400px;
+    background-color: black;
+}
+
+#div3ia{
+    width: 300px;
+    height: 100px;
+    background-color: black;
+    z-index: 1;
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 190px;
+    border-radius: 20px;
+}
+
+#div3iai{
+    width: 180px;
+    height: 60px;
+    background-color: black;
+    margin: auto;
+    margin-left: 0px !important;
+}
+#div3iaii{
+    width: 60px;
+    height: 60px;
+    background-color: yellow;
+    margin: auto;
+    margin-right: 10px !important;
+}
+
+#div3ii{
+    width: 50%;
+    height: 400px;
+    background-color: black;
+    
+}
+
+#div3iib{
+    width: 450px;
+    height: 300px;
+    background-color: black;
+    margin-top: 20px;
+}
+
+#div4{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+#div4i{
+    width: 50%;
+    height: 400px;
+    background-color: black;
+}
+
+#div4ia{
+    width: 450px;
+    height: 200px;
+    background-color: black;
+    margin: auto;
+    margin-left: 150px;
+}
+
+#div4ii{
+    width: 50%;
+    height: 400px;
+    background-color: black;
+}
+
+#div5{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+#div5i{
+    width: 50%;
+    height: 400px;
+    background-color: black;
+    padding-left: 75px;
+}
+
+#div5ii{
+    width: 50%;
+    height: 400px;
+    background-color: black;
+}
+
+#div5iib{
+    width: 470px;
+    height: 280px;
+    background-color: black;
+    margin: auto;
+}
+
+#div6{
+    width: 100%;
+    height: 1200px;
+    background-color: black;
+    margin-bottom: 20px;
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    white;
+     opacity: 1 !important;
+}
+
+#div7{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+}
+
+#div7i{
+    width: 15%;
+    height: 300px;
+    background-color: black;
+}
+
+#div7ii{
+    width: 15%;
+    height: 300px;
+    background-color: black;
+}
+
+#div7iii{
+    width: 15%;
+    height: 300px;
+    background-color: black;
+}
+
+#div7iv{
+    width: 15%;
+    height: 250px;
+    background-color: black;
+}
+/*
+.accordion-button:active, .accordion-button:focus{
+    border: none !important;
+}
+
+.accordion-button:hover{
+    background: #25aca3 !important;
+}
+
+.accordion-button::after{
+    content: "";
+    background: #fff;
+    transform: scale(1.2);
+    border-radius: 3px;
+    transition: .5s !important;
+}*/
+
+.accordion-item{
+    border-radius: 0px !important;
+    margin-top: 20px !important;
+    width: 90%;
+    margin: auto;
+}
+
+.accordion-button{
+    height: 80px;
+    font-size: 25px !important;
+}
+
+.accordion-button.collapsed::after{ /*Changing the arrow of the accordion to switch between the plus and close signs*/
+    background-image: url(../../public/images/plus.svg);
+    filter: invert(100%) sepia(0%) saturate(7179%) hue-rotate(0deg) brightness(100%) contrast(65%);
+    background-size: cover;
+}
+
+.accordion-button:not(.collapsed)::after{
+    background-image: url(../../public/images/x-lg.svg) !important;
+    filter: invert(100%) sepia(0%) saturate(7179%) hue-rotate(0deg) brightness(100%) contrast(65%);
+    
+}
+
+.suggestionBox {
+    background-color: white;
+    margin-top: 2px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    margin: 37px 12px 0px 0px;
+    width: 200px;
+}
