@@ -21,7 +21,7 @@ app.use(cors());
 app.use('/', route);
 
 // DB
-const MongoAtlas = "mongodb+srv://KOKO:WOPtUVeG3v7bPtXv@zomato-clone-80.iw1me1l.mongodb.net/mini_project_3?retryWrites=true&w=majority&appName=zomato-clone-80";
+const MongoAtlas = "********************************************************************************************************************";
 
 //password : WOPtUVeG3v7bPtXv
 
